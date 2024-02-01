@@ -22,6 +22,8 @@ We are presently employing 3D computer graphics to replicate the sea state by in
 
 Follow [this link](https://www.youtube.com/watch?v=0EqjG6VoXtY) to know more.
 
+![DTO Sea State](https://raw.githubusercontent.com/gerardllorach/3DDTO/main/DTOSeaState.png)
+
 ### Digital Twins of observation platforms
 Not only is the sea surface critical, but also the equipment and infrastructure used to measure oceanographic data play a pivotal role. Developing digital twins of these platforms can significantly enhance the understanding of their status and characteristics. Presently, our focus lies in developing 3D digital twins of the environments where these observation infrastructures are deployed. Through this initiative, we aim to provide comprehensive insights into the conditions surrounding these instruments, facilitating improved monitoring and interpretation of oceanographic data.
 
