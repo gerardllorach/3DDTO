@@ -21,12 +21,12 @@ We are presently employing 3D computer graphics to replicate the sea state by in
 Follow [this link](https://docs.google.com/presentation/d/13kTesg5sK3pRcgTZWuZqHQVjNOAg0-1OfR5X2H9Kpf4) to know more.
 
 ### Digital Twins of observation platforms
-Not only is the sea surface critical, but also the equipment and infrastructure used to measure oceanographic data play a pivotal role. Developing digital twins of these platforms can significantly enhance our understanding of their status and characteristics. Presently, our focus lies in crafting 3D digital twins of the environments where these observation infrastructures are deployed. Through this initiative, we aim to provide comprehensive insights into the conditions surrounding these vital instruments, facilitating improved monitoring and interpretation of oceanographic data.
+Not only is the sea surface critical, but also the equipment and infrastructure used to measure oceanographic data play a pivotal role. Developing digital twins of these platforms can significantly enhance the understanding of their status and characteristics. Presently, our focus lies in developing 3D digital twins of the environments where these observation infrastructures are deployed. Through this initiative, we aim to provide comprehensive insights into the conditions surrounding these instruments, facilitating improved monitoring and interpretation of oceanographic data.
 
-As an example, t...
+To get a better idea, please check our 3D digital twin of the cabled observatory OBSEA in [this link](https://cgi-dto.github.io/OBSEA/)
 
 ### Underwater ecosystems
-Using high-freq data such as from underwater cameras we can guess interaction with different species, fish bank behaviour etc... Dissemination relevant
+Thanks to high-freq data such as underwater cameras, insights about the species that participate in observed ecosystem can be gatehred. By leveraging this data, models and behaviors can be accurately portrayed and visualized within a dynamic 3D environment. For instance, certain species exhibit activity exclusively during nighttime, while others are active only during the day. Though this section remains under development, our plans involve meticulously modeling the behavior ,specifically animation, of various species, fish schools, and interactions.
 
 ## Funding
-Currently this project is looking for different funding opportunities. Please contact me (Gerard Llorach Tó) if you are interested in a collaboration.
+Currently this project is looking for funding opportunities. Please contact me (Gerard Llorach Tó) if you are interested in a collaboration.
