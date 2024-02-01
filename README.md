@@ -1,3 +1,5 @@
+![DTO Banner](https://raw.githubusercontent.com/gerardllorach/3DDTO/main/DTOBanner.png)
+
 # 3D Digital Twin of the Ocean
 Introducing the 3D Digital Twin of the Ocean, an endeavor dedicated to advancing and disseminating oceanographic research through innovative 3D visualizations.
 
@@ -7,7 +9,7 @@ One of the significant challenges facing scientists is the collection of vast am
 ## The digital twin
 A 3D digital twin is a virtual replica or representation of a physical object or system in three dimensions. It utilizes advanced modeling and simulation techniques to create a highly detailed and accurate digital counterpart of the real-world object or system. In the context of the ocean, a 3D digital twin would be a virtual simulation or representation of the ocean environment based on the data and knowledge collected by scientist and researchers. Civil society, together with scientists and researchers, can use a 3D digital twin of the ocean to understand, study and analyze various phenomena, simulate environmental changes, monitor marine life, and gain insights into oceanic dynamics.
 
-image
+![DTO Concept](https://raw.githubusercontent.com/gerardllorach/3DDTO/main/DTOconcept.png)
 
 ## What is this project about?
 The primary aim of this project is to utilize oceanographic data to develop immersive and accessible virtual environments of the ocean, with a strong emphasis on dissemination and engagement with civil society. Through the utilization of advanced 3D computer graphics techniques, our goal is to construct highly realistic digital twins.
@@ -18,15 +20,17 @@ Being able to picture the sea state based on parameters like wave height, wave p
 
 We are presently employing 3D computer graphics to replicate the sea state by integrating various oceanographic variables. Our strategy involves utilizing empirically derived wave spectral models and integrating data from real-time observations including buoys and ADCPs, to construct 3D virtual environments. Diverse computer graphics techniques will be explored to optimize our real-time simulations. The accuracy and fidelity of these simulations will undergo both qualitative and quantitative assessments to ensure their reseamblance to the real sea state.
 
-Follow [this link](https://docs.google.com/presentation/d/13kTesg5sK3pRcgTZWuZqHQVjNOAg0-1OfR5X2H9Kpf4) to know more.
+Follow [this link](https://www.youtube.com/watch?v=0EqjG6VoXtY) to know more.
 
 ### Digital Twins of observation platforms
 Not only is the sea surface critical, but also the equipment and infrastructure used to measure oceanographic data play a pivotal role. Developing digital twins of these platforms can significantly enhance the understanding of their status and characteristics. Presently, our focus lies in developing 3D digital twins of the environments where these observation infrastructures are deployed. Through this initiative, we aim to provide comprehensive insights into the conditions surrounding these instruments, facilitating improved monitoring and interpretation of oceanographic data.
 
 To get a better idea, please check our 3D digital twin of the cabled observatory OBSEA in [this link](https://cgi-dto.github.io/OBSEA/)
 
+![DTO OBSEA](https://raw.githubusercontent.com/gerardllorach/3DDTO/main/DTOOBSEA.png)
+
 ### Underwater ecosystems
 Thanks to high-freq data such as underwater cameras, insights about the species that participate in observed ecosystem can be gatehred. By leveraging this data, models and behaviors can be accurately portrayed and visualized within a dynamic 3D environment. For instance, certain species exhibit activity exclusively during nighttime, while others are active only during the day. Though this section remains under development, our plans involve meticulously modeling the behavior ,specifically animation, of various species, fish schools, and interactions.
 
 ## Funding
-Currently this project is looking for funding opportunities. Please contact me (Gerard Llorach Tó) if you are interested in a collaboration.
+Currently this project is looking for funding opportunities. Please contact me (Gerard Llorach Tó - gerard.llorach.work at gmail) if you are interested in a collaboration.
